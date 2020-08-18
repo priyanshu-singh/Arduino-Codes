@@ -12,9 +12,9 @@ double Gx;
 double Gy;
 double Gz;
 
-int xpin = 0;
-int ypin = 1;
-int zpin = 2;
+int xpin = 0;   //connect xpin of adxl to digital 0
+int ypin = 1;   //connect ypin of adxl to digital 1
+int zpin = 2;   //connect zpin of adxl to digital 2
 
 int t1;
 
@@ -31,9 +31,9 @@ double Gx2;
 double Gy2;
 double Gz2;
 
-int xpin2 = 3;
-int ypin2 = 4;
-int zpin2 = 5;
+int xpin2 = 3;   //connect xpin of adxl to digital 3
+int ypin2 = 4;   //connect ypin of adxl to digital 4
+int zpin2 = 5;   //connect zpin of adxl to digital 5
 
 int t2;
 void setup()

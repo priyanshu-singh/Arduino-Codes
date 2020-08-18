@@ -5,9 +5,9 @@
 
 Servo servo;
 
-char auth[] = "M0j4y4ikOjNVtLbEwq7Gmb1K_8XtFOZk";
-char ssid[] = "Nokia 6";
-char pass[] = "priyanshu2031";
+char auth[] = "";
+char ssid[] = "WIFI name";
+char pass[] = "wifi password";
 
 void setup()
 {

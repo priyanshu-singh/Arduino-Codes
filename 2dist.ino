@@ -1,3 +1,8 @@
+*/ measure distance using 2 ultra sonic sensor/*
+
+
+
+
 
 #define TRIGGER_PIN 13
 #define ECHO_PIN 12

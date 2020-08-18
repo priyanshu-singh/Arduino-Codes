@@ -1,7 +1,7 @@
 # Arduino-Codes
 
 
-Get values from Different types of Sensors used in an ATv.
+Get values from Different types of Sensors used in an ATV car.
 
 2 ADXl335 for Vibration:- This code is used to find vibration of 2 differnt bodies. Attach ADXl to 2 differect parts and measure the vibration.
 
